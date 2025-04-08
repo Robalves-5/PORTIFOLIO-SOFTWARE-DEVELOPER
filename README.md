@@ -1,116 +1,44 @@
-# Roadmap de Engenharia de Dados 
+Software Developer Portfolio
+Bem-vindo ao meu repositório de projetos! Aqui você encontrará diversos exemplos do meu trabalho como Software Developer, incluindo projetos de back-end, automação, APIs, microserviços e muito mais. Meu foco é escrever código limpo, eficiente e escalável, sempre em busca de melhorar a performance e a experiência do usuário.
 
-<p align="center">
-  <a href="https://suajornadadedados.com.br/"><img src="pics/logo.png" alt="Jornada de Dados"></a>
-</p>
-<p align="center">
-    <em>Nossa missão é fornecer o melhor ensino em engenharia de dados</em>
-</p>
+Objetivos
+Meu objetivo principal é desenvolver soluções robustas e de alta qualidade que resolvam problemas reais. Ao longo da minha jornada como desenvolvedor, busquei aprimorar minhas habilidades em diversas tecnologias, incluindo:
 
-Bem-vindo ao **Roadmap de Engenharia de Dados** da **Jornada de Dados**! Este repositório foi construído colaborativamente e tem como objetivo capacitá-lo para a carreira de engenharia de dados, ajudando profissionais como você a atingir novos patamares em sua trajetória profissional.
+Back-end: Python, FastAPI, Flask, Node.js, Django.
 
-Aqui você encontrará:
+Banco de dados: PostgreSQL, MongoDB, SQL, NoSQL.
 
-- **Roadmap de Estudo:** Links, referências e materiais complementares para auxiliar no seu aprendizado. Se você quer ter um plano de estudo, encontrará uma série de projetos e recursos que o guiarão passo a passo no desenvolvimento das habilidades essenciais em engenharia de dados.
-- **Códigos das Aulas:** Todos os códigos e materiais utilizados durante as aulas estão disponíveis neste repositório para que você possa praticar e aprofundar seu conhecimento.
-- **Calendário dos Próximos Encontros:** Fique por dentro das datas e temas dos próximos workshops e bootcamps da Jornada de Dados.
+Automação: Python, Selenium, Logic Apps, Power Automate.
 
-Se você gostou do conteúdo e quer se inscrever em nosso programa profissional, pode fazer isso aqui:
+DevOps: Docker, Kubernetes, CI/CD.
 
----
+Frontend: React, Vue.js.
 
-## Próximos Eventos
+Cloud: AWS, Azure, GCP.
 
-| Nome/Github                                      | Onde     | Data   | Mês       |
-|-------------------------------------------|----------|--------|-----------|
-| [Pipeline de dados no Azure](https://github.com/lvgalvao/workshop-azure-jornadadedados)                | Jornada  | 21/12  | Hoje  |
-| ETL 10 bilhões de linhas           | Youtube  | Terça dia 14/01 ás 19h30  | Janeiro   |
-| Databricks e delta table (OLAP + OLTP)           | Jornada  | 22/01  | Janeiro   |
-| Bootcamp Multiengine Databricks, Spark e DuckDB           | Jornada  | 27/01 até 31/01  | Janeiro   |
-| Convidado surpresa           | Jornada  | 04/02  | Janeiro   |
-| Kubernetes e Airflow no Google Cloud                     | Jornada  | 22/02  | Fevereiro     |
-| Bootcamp de AI Agents                     | Jornada  | 27/03  | Março     |
+Machine Learning: Scikit-learn, TensorFlow, PyTorch.
 
-![roadmap](./pics/roadmap_2025.png)
+Projetos
+API RESTful com FastAPI
 
-Tem sugestões de Tópicos? [clique aqui](https://github.com/lvgalvao/data-engineering-roadmap/issues)
+Uma API simples para gerenciar usuários e autenticação utilizando FastAPI.
 
-![imagem](./pics/issue.png)
+Tecnologias: Python, FastAPI, PostgreSQL, JWT.
 
-Abra uma Issue aqui
+Web Scraping Bot
 
-![imagem](./pics/issue.png)
+Um bot de scraping para extrair dados de sites financeiros utilizando Selenium.
 
-Participe e interaja
+Tecnologias: Python, Selenium, BeautifulSoup.
 
-![imagem](./pics/issue.png)
+Sistema de Recomendação de Filmes
 
-___
+Um sistema que utiliza técnicas de aprendizado de máquina para recomendar filmes aos usuários.
 
-## Youtube - Workshops ao vivo - Lives abertas
+Tecnologias: Python, Scikit-learn, Pandas.
 
-| Nome                                      | Link                                                    | Duração  | Stack/Github |
-|-------------------------------------------|---------------------------------------------------------|----------|------ |
-| Extração de API do zero | [Assistir no YouTube](https://youtube.com/live/xvCwZ73muV8) | 2h  | [GitHub, Python, API, SQL, Azure, Streamlit](https://github.com/lvgalvao/ETLProjectAPIExtract) |
-| Pipeline ETL - Web Scraping com Requests e Beautiful Soup 4 | [Assistir no YouTube](https://youtube.com/live/z1EOlFV8g7g) | 2h  | [GitHub, Python, Requests e Beautiful Soup 4](https://github.com/lvgalvao/IphoneProjectWebScraping) |
-| Pipeline de Dados com GA4 e Typeform | [Assistir no YouTube](https://youtube.com/live/kt72obCvo0k) | 6h  | Python, SQL e Cursor AI |
-| Pipeline Gen AI - ETL com API e CRM de vendas | [Assistir no YouTube](https://youtube.com/live/I-4noY9hGTQ) | 6h  | [Python, SQL, OpenAI, Langchain e Git](https://github.com/lvgalvao/pipelineaovivo)  |
-| WORKSHOP ABERTO #1 - DO ZERO AO DEPLOY COM LUCIANO | [Assistir no YouTube](https://www.youtube.com/watch?v=HxY2UhHkFWA) | 2h  | [GitHub, VirtualEnv, TDD, taskipy, pytest, Streamlit, Selenium, Pydantic, MkDocs](https://github.com/lvgalvao/Workshop-aberto-aovivo) |
-| Criando ETL Com Python e DUCKDB DO ZERO AO DEPLOY ft. [@mehd-io](https://github.com/mehd-io) | [Assistir no YouTube](https://www.youtube.com/watch?v=4w6UQNn_6X0) | 1h47min  | [DuckDB, SQL, S3, CSV, JSON, MotherDuck, Streamlit, Docker, Render](https://github.com/lvgalvao/aula-aovivo-mehdi) |
-| CRIANDO ETL COM PYTHON E DUCKDB DO ZERO AO DEPLOY | [Assistir no YouTube](https://www.youtube.com/watch?v=eXXImkz-vMs) | 2h32min  | [DuckDB, SQLAlchemy, Google Drive, SQL, Postgres, Python, CSV, Parquet, JSON, Streamlit, Docker, Render](https://github.com/lvgalvao/workshop-aberto-02) |
-| Modern Data Stack com SQL - Parte 1 de 3 ft. [@MarcLamberti](https://github.com/marclamberti) | [Assistir no YouTube](https://www.youtube.com/watch?v=lhMIMrEj_4Q) | 2h  | AirFlow, Astro-cli, Docker, Airbyte Cloud , Render, Postgres|
-| Modern Data Stack com SQL - Parte 2 de 3 | [Assistir no YouTube](https://www.youtube.com/watch?v=WG96Z7uGTHg) | 1h53min  | SQL, dbt, Render |
-| Modern Data Stack com SQL - Parte 3 de 3 | [Assistir no YouTube](https://www.youtube.com/watch?v=brfl7hdC060) | 1h53min  | [Python, AirFlow, SQL, dbt, Render, Docker](https://github.com/lvgalvao/bootcamp-aberto-aovivo) |
-___
+Dashboard de Análise de Dados
 
-# Workshops - Quem sabe faz ao vivo
+Um dashboard interativo para visualização e análise de dados financeiros.
 
-| Nome                                      | Link                                                    | Profissional  | Stack |
-|-------------------------------------------|---------------------------------------------------------|----------|------ |
-| Construindo um Pipeline ETL em Tempo Real | [Assistir no YouTube](https://youtube.com/live/daUC8kMzeLw) | [Caio Machado](https://github.com/caio-moliveira)  | [Kafka, PostgreSQL e Streamlit](https://github.com/caio-moliveira/sales-pipeline-project) |
-| Como sair do ZERO com SQL na AWS | [Assistir no YouTube](https://youtube.com/live/ko3D76GP5d4) | [Ghabriel Fiorotti](https://github.com/ghabriel-fiorotti)  | ETL Parquet S3 Athena e Glue |
-| Plataforma com Big Query do Zero| [Assistir no YouTube](https://youtube.com/live/NP08fHker5U) | [Alan Lanceloth](https://github.com/alanceloth) | [Python, Airflow, dbt, soda, docker, GCP, Metabase](https://github.com/alanceloth/Retail_Data_Pipeline) |
-| Qualidade de dados e Contrato de Dados  | [Assistir no YouTube](https://youtube.com/live/IQtuWsNmB4o) | [Renan Heckert](https://github.com/lealre)  | [Pandera e Pydantic](https://github.com/lealre/pandera-aovivo) |
-
-# Workshops - Especialistas
-
-| Nome                                      | Link                                                    | Profissional  | Stack |
-|-------------------------------------------|---------------------------------------------------------|----------|------ |
-| Como sair do ZERO em Observabilidade com Logfire| [Assistir no YouTube](https://youtube.com/live/bxtsTP0a0mU) | [Marcelo Trylesinski](https://github.com/Kludex)  | Logfire |
-| dbt no Airflow - Como melhorar o desempenho do seu deploy de forma correta | [Assistir no YouTube](https://youtube.com/live/xvCwZ73muV8) | [Tatiana Martins](https://github.com/tatiana) | Airflow e dbt-core |
-| Construa Data Apps Completos com Briefer | [Assistir no YouTube](https://youtube.com/live/6KyxRpX6oY4) | [Lucas Costa](https://github.com/lucasfcosta)  | Briefer, SQL e Python |
-| Como sair do ZERO no AIRBYTE| [Assistir no YouTube](https://youtube.com/live/4hQroajva0s) | [Alan Lanceloth](https://github.com/alanceloth)  | Airbyte |
-| Como criar do ZERO um Lakehouse | [Assistir no YouTube](https://youtube.com/live/O9q5owTOpMw) | [Nilton Ueda](https://github.com/niltonkazuyukiueda)  | Conceitual |
-
-___
-
-
-## Youtube - Vídeos tutoriais
-| Nome                                      | Link                                                    | Duração  | Stack |
-|-------------------------------------------|---------------------------------------------------------|----------|------ |
-| Top 5 Projetos de Engenharia de Dados Aprenda ETL, Python e SQL Gratuitamente! | [Assistir no YouTube](https://www.youtube.com/watch?v=ldjbV_0mqXI) | 14min | Python, DuckDB, Spark, GitHub, Docker |
-| O que é CLOUD? Explicação COMPLETA para DADOS (Deploy Python e SQL na AWS, Azure, GCP com Terraform) | [Assistir no YouTube](https://www.youtube.com/watch?v=Iff6Nr3sK4U) | 15min | Python, GitHub, AWS, Azur, GCP, SQL, Docker, Terraform |
-| Como fazer o Deploy de Airflow na EC2 AWS | [Assistir no YouTube](https://www.youtube.com/watch?v=aYLmKbxXcls) | 14min | AWS, EC2, Airflow | 
-| Amazon SQS e Rabbit MQ eu preciso mesmo disso? | [Assistir no YouTube](https://www.youtube.com/watch?v=sSBFCffBSac) | 5min | SQS, Rabbit MQ | 
-| Segredos para economizar com a AWS | [Assistir no YouTube](https://www.youtube.com/watch?v=aKvCjSQHb_w) | 5min | AWS | 
-| CRUD, qual a vantagem de usar um ORM? | [Assistir no YouTube](https://www.youtube.com/watch?v=hl5YjfvqkB0) | 6min | SQL Alchemy, Python, ORM, SQL | 
-| Como instalar Python em 2024 + Pyenv, PIP, VENV, PIPX e Poetry | [Assistir no YouTube](https://www.youtube.com/watch?v=9LYqtLuD7z4) | 33min | Pyenv, PIP, VENV, PIPX, Poetry, Python | 
-| Como instalar Python em 2024 + VSCode, Git e GitHub do Zero | [Assistir no YouTube](https://www.youtube.com/watch?v=-M4pMd2yQOM) | 33min | Python, VSCode, Git, GitHub | 
-| O que é o arquivo __init__.py em Python? Explicado com 4 exemplos | [Assistir no YouTube](https://www.youtube.com/watch?v=H7rINLV6e0I) | 14min | Python | 
-
-
----
-
-## Especialização Jornada de dados
-
-| Nome do Treinamento                     | Link GitHub | Status       | Descrição                                                                              |
-|-----------------------------------------|-------------|--------------|---------------------------------------------------------------------------------------|
-| Python para Dados                       | [Link](#)   | Concluído    | Fundamentos de Python para engenharia de dados, com foco em bibliotecas como Pandas.  |
-| SQL para Analytics Engineer             | [Link](#)   | Concluído    | Domine SQL avançado para análise de dados e otimização de consultas complexas.        |
-| dbt-core                                | [Link](#)   | Concluído    | Utilize dbt-core para transformação de dados no data warehouse com práticas modernas. |
-| Web Scraping Avançado                   | [Link](#)   | Concluído    | Técnicas avançadas de extração de dados de sites e manipulação de APIs.               |
-| Cloud para Dados                        | [Link](#)   | Em andamento | Serviços de nuvem aplicados à engenharia de dados com AWS, Azure e GCP.               |
-
----
-
-Caso queira sugerir temas para próximos workshops, [abra uma issue](https://GitHub.com/lvgalvao/data-engineering-roadmap/issues)."# DATA-ENGINEER" 
+Tecnologias: Dash, Plotly, Pandas.
