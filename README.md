@@ -113,4 +113,4 @@ ___
 
 ---
 
-Caso queira sugerir temas para próximos workshops, [abra uma issue](https://GitHub.com/lvgalvao/data-engineering-roadmap/issues).
+Caso queira sugerir temas para próximos workshops, [abra uma issue](https://GitHub.com/lvgalvao/data-engineering-roadmap/issues)."# DATA-ENGINEER" 
